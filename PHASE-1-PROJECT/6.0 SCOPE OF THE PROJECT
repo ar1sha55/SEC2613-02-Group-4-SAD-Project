@@ -1,0 +1,15 @@
+6.0 SCOPE OF THE PROJECT
+
+The postgraduate supervision system opens to Malaysian candidates, comprising 3 types of users: postgraduate candidates, postgraduate students (approved for supervision) and supervisor. Based on their user type and role, each type of user has distinct sets of capabilities. For instance, a common requirement among all users is that each of the users has to create their own personal account, where they have to provide authentic information when completing their profile.
+
+Postgraduate candidates:
+After completing the profile setup, postgraduate candidates are officially allowed to commence the process of seeking supervisors. In the system, a filtration mechanism will be implemented to filter the supervisors according to their field of studies. This mechanism streamlines the searching process by directing it towards the particular field, instead of manually searching within the entire system one-by-one. After narrowing down the field of studies, the system will present a selection of suitable supervisors that are available for supervision. Postgraduate candidates are able to click into the supervisor's profile for further insights into their background and expertise. For instance, the supervisor’s basic information including names, institution or university, field of study; the applicable research grants, number of students under main supervision and co-supervision, and most importantly the scholar publications of supervisors. Then, postgraduate candidates are able to request for supervision and wait for a reply from the supervisor.
+
+Postgraduate students:
+After getting approval from the supervisor, the postgraduate supervision system also serves as a platform for postgraduate students to interact with the supervisor. Postgraduate students may access materials uploaded by the supervisor, at the same time update the project/thesis progress to this platform for supervision. Besides, the system will feature a built in calendar facilitating the checking of supervisor availability and the scheduling of appointments.This platform fosters an environment conducive to effective collaboration and guidance, enhancing the overall academic experience for postgraduate scholars.
+
+Supervisors:
+After receiving requests from postgraduate candidates, supervisors are expected to either approve or decline the request. In the event of a rejection, it is strongly recommended that supervisors provide a proper comment elucidating the rationale behind their decision. The insightful feedback will greatly assist postgraduate candidates in refining their profile.
+Meanwhile, after the supervisor had approved the specific postgraduate candidate, the designated postgraduate candidate transitions into the role of a formally enrolled postgraduate student under supervision. Supervisor may upload materials and track student thesis progress through this platform.
+
+In the meantime, other features that may not be included is the messenger chat box as per stakeholder feedback, majority of the supervisors and students prefer direct communication through conventional social platforms.

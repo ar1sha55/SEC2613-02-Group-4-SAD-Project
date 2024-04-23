@@ -1,1 +1,6 @@
+7.1 Human Resource
 
+This is the organization chart for human resource.
+Advisor: DR. MUHAMMAD ALIIF BIN AHMAD
+Leader: NUR ARISHA BINTI AMYRUL NAIM
+Member: ALYA QISTINA BINTI AWALUDDIN, NIK BALQIS BINTI NIK JEFRY, TANG JASMINE

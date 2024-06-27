@@ -1,4 +1,4 @@
-# Process1: RegisterAccount
+# Process1: Register Account
 ## Child Dragram
 ![Child Diagram](Images/TOBE_Physical_ChildDiagram_Process1.png)
 ## CRUD Matrix

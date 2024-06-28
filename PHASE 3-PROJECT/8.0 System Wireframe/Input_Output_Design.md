@@ -1,4 +1,5 @@
- Main Page
+# Pre Login
+## Main Page
 ![Main Page](Images/MainPage.png)
 
 ## Sign Up Page (Account Registration)
@@ -22,6 +23,7 @@ Users are able to login to their account after account registration.
 IC and password input is to authenticate the user's account.
 ![Login Page](Images/LoginPage.png)
 
+# Student
 ## [Student] Main Menu
 Students are able to request for supervisor, schedule an appointment with supervisor through calendar and submit thesis for review.
 ![Main Menu - Student](Images/[Student]MainMenu.png)
@@ -36,3 +38,28 @@ Students are able to send request to supervisor.
 
 ## [Student] Request Supervisor Confirmation
 ![Request Supervisor Confirmation](Images/[Student]SelectionSupervisorConfirmation.png)
+
+## [Student] Work Submission
+![Work submission](Images/[Student]SubmisionStatus.png)
+
+## [Student] Add Submission
+![Add Submission](Images/[Student]AddSubmission.png)
+
+# Supervisor
+## [Supervisor] Main Menu
+![Main Menu - Supervisor](Images/[Supervisor]MainMenu.png)
+
+## [Supervisor] View Student's Request
+![Student's Request](Images/[Supervisor]Student's_Request.png)
+
+## [Supervisor] Accept Student's Request
+![Accept Student's Request](Images/[Supervisor]Student's_Request_Accept.png)
+
+## [Supervisor] Accept Student's Request Confirmation
+![Accept Student's Request Confirmation](Images/[Supervisor]Student's_Request_AcceptConfirmation.png)
+
+## [Supervisor] Reject Student's Request 
+Supervisors are able to fill in any feedback / comment / reasons of rejection.
+![Reject Student's Request](Images/[Supervisor]Student's_Request_Reject.png)
+
+

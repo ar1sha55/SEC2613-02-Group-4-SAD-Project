@@ -52,14 +52,26 @@ Students are able to send request to supervisor.
 ## [Supervisor] View Student's Request
 ![Student's Request](Images/[Supervisor]Student's_Request.png)
 
-## [Supervisor] Accept Student's Request
-![Accept Student's Request](Images/[Supervisor]Student's_Request_Accept.png)
-
 ## [Supervisor] Accept Student's Request Confirmation
 ![Accept Student's Request Confirmation](Images/[Supervisor]Student's_Request_AcceptConfirmation.png)
+
+## [Supervisor] Accept Student's Request
+![Accept Student's Request](Images/[Supervisor]Student's_Request_Accept.png)
 
 ## [Supervisor] Reject Student's Request 
 Supervisors are able to fill in any feedback / comment / reasons of rejection.
 ![Reject Student's Request](Images/[Supervisor]Student's_Request_Reject.png)
 
+## [Supervisor] Review Student's Submission
+![Review Student's Submission](Images/[Supervisor]Review_StudentThesis.png)
 
+#
+## Merge Calendar
+After Supervisor accept Student's request, Student able to merge calendar with Supervisor in order to schedule for appointments / meetings.
+![Merge Calendar](Images/MergeCalendarConfirmation.png)
+
+## Monthly Calendar
+![Monthly Calendar](Images/CalendarMonthly.png)
+
+## Weekly Calendar
+![Weekly Calendar](Images/CalendarWeekly.png)

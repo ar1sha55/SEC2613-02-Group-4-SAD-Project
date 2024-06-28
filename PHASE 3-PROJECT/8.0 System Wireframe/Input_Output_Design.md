@@ -1,4 +1,4 @@
-## Main Page
+ Main Page
 ![Main Page](Images/MainPage.png)
 
 ## Sign Up Page (Account Registration)
@@ -30,4 +30,9 @@ Students are able to request for supervisor, schedule an appointment with superv
 Students are able to search for supervisor in this page. There is a filtration system that filters the supervisor according to the field of study, This simplifies the searching process.
 ![Supervisor Filtration](Images/[Student]SelectionFieldOfStudy.png)
 
+## [Student] Request Supervisor
+Students are able to send request to supervisor.
+![Request Supervisor](Images/[Student}SelectionSupervisor.png)
 
+## [Student] Request Supervisor Confirmation
+![Request Supervisor Confirmation](Images/[Student]SelectionSupervisorConfirmation.png)
